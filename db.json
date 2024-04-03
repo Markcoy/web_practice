@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "38a0",
+      "email": "macoy.velasco12@gmail.com",
+      "password": "$2a$10$WrZYTr.dB/aOebBaCRaHVOvDQBybR8nkI5Mk0q45imV2spJ5EksHa",
+      "firstName": "Mark ",
+      "lastName": "d",
+      "address": "Sabang",
+      "phoneNumber": "09276082570",
+      "gender": "Male",
+      "birthdate": "2024-04-10"
+    },
+    {
+      "id": "bafe",
+      "email": "macoy@mac.com",
+      "password": "$2a$10$ilBSK9qeVT3oO1G3675Rye533GI15kgHqSUuZ72ZGUmNcdhOSEKrK",
+      "firstName": "dsf",
+      "lastName": "fsaffsa",
+      "address": "sdada",
+      "phoneNumber": "09267878675",
+      "gender": "Male",
+      "birthdate": "2024-04-16"
+    },
+    {
+      "id": "b5fd",
+      "email": "macoy.vel@gmail.com",
+      "password": "$2a$10$zD5r2v8YETgJOm3zfX1MN.Lztg58qtFjSblfW4RZ69t7KEBLwbPtG",
+      "firstName": "sdfs",
+      "lastName": "fff",
+      "address": "Sabang",
+      "phoneNumber": "09276082579",
+      "gender": "Male",
+      "birthdate": "2024-04-08"
+    },
+    {
+      "id": "4457",
+      "email": "dd@gmail.com",
+      "password": "$2a$10$HZ3tzMKMmQzZdmmeZGMuPOAQUeXkqxqYyg14k487WTl0JX1WE.hlS",
+      "firstName": "asdas",
+      "lastName": "ddada",
+      "address": "Sabang",
+      "phoneNumber": "09276082578",
+      "gender": "Male",
+      "birthdate": "2024-04-17"
+    }
+  ]
+}
